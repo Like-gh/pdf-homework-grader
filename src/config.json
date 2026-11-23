@@ -1,0 +1,28 @@
+{
+  "submissions_path": "",
+  "last_student": "",
+  "view_scale": 0.55,
+  "mark_multiplier": 1.0,
+  "full_score": 100.0,
+  "comment_size": 12,
+  "score_presets": [
+    1,
+    2,
+    3,
+    5,
+    10,
+    15,
+    18,
+    20,
+    26,
+    30
+  ],
+  "comment_presets": [
+    "Well done! ✓",
+    "Good effort!",
+    "Add oil! 加油!",
+    "Needs improvement",
+    "非常好，继续加油"
+  ],
+  "current_batch": ""
+}

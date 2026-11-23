@@ -1,0 +1,45 @@
+# ===== 真实学生数据 / 隐私数据（绝不上传）=====
+# 作业目录：含学生作业 PDF、批改产物、成绩单
+work/
+# 演示/说明视频
+video/
+# 历史打包备份
+garbage/
+*.zip
+
+# ===== 本地状态与隐私配置 =====
+# 运行时生成的本地配置（含个人路径、上次打开的学生文件、批次 ID）
+config.local.json
+config.json.bak
+config.json.backup
+*.local.json
+
+# ===== WorkBuddy / AI 辅助记录（含内部信息）=====
+.workbuddy/
+.claude/
+
+# ===== Python 运行产物 =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ===== 编辑器 / 系统 =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== 日志 / 临时 =====
+*.log
+*.tmp
+*.swp
+~$*
