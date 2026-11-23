@@ -1,6 +1,10 @@
 # ===== 真实学生数据 / 隐私数据（绝不上传）=====
-# 作业目录：含学生作业 PDF、批改产物、成绩单
-work/
+# 作业目录 work/：整体忽略，但保留空的目录骨架方便新用户放作业。
+# 只放行 work/downloads/.gitkeep 这一个占位文件；其余 anything 全部忽略。
+work/*
+!work/downloads/
+work/downloads/*
+!work/downloads/.gitkeep
 # 演示/说明视频
 video/
 # 历史打包备份

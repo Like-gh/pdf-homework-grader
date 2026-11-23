@@ -1,0 +1,5 @@
+# 把从 Canvas / Moodle 下载的学生作业压缩包解压到这里
+# 每个作业建一个子文件夹，例如 work/downloads/homework4/
+# 然后用程序里的「设置路径 / Set Path」选中该子文件夹
+#
+# 注意：本目录及子目录里的真实作业数据已被 .gitignore 排除，不会上传。
